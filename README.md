@@ -19,7 +19,7 @@ The algorithm identifies potential buy/sell signals by detecting local minima an
 * **Charting:** Visual plots for trade actions
 <br>
 
-## Technical Implementation
+## Implementation
 
 ### 1. **EMA Turning Point Detection**
 
